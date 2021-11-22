@@ -1,3 +1,4 @@
 # savannah-rucker
 Personal portfolio of Savannah Rucker
-Learning how to use Git
+<br></br>
+Early Career Professional with experience in federal government finance, small business sales, and customer service.
