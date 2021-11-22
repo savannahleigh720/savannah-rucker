@@ -75,7 +75,8 @@
         <br></br>
     <strong>Graduate Coursework - Public & Nonprofit Leadership | Marshall University | May 2020-July 2020</strong>
       <ul>
-        <li>Created a mock non-profit organization and an accompanying website.</li>
+        <li>Created a mock non-profit organization and an accompanying website.</li
+        <li><a href="https://rrpkids.weebly.com/">The JRRP Foundation<a/></li>
         <li>Human resources, labor law, and organizational leadership.</li>
       </ul>
        <br></br>
