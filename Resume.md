@@ -2,21 +2,39 @@
 <html>
 <head>
     <h1>Savannah Rucker - Professional Resume</h1>
-      Early career professional with experience in federal government finance, small business sales, and customer service.
-        <br></br>
+        I help companies organize data and solve problems.       
+    <br></br>
      <a href="https://www.linkedin.com/in/savannah-rucker/"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt=Linkedin width="40" height="40"> </a> 
      
 </head>
 <body>
+    <h2>Skills</h2>
+    <ul>
+        <li>SQL</li>
+        <li>Hubspot Reporting</li>
+        <li>Excel</li>
+        <li>Powerpoint</li>
+     </ul>
+        <br></br>
     <h2>Experience</h2>
-    <strong>Teacher | Hampton City Schools | Aug 2020-Current</strong>
+    <strong>Operations Associate | C-NEXT Partners | Dec 2021-Current</strong>
       <ul>
-        <li>Designs and implements instructional material to an audience with varying learning styles.</li>
-        <li>Maintains and utilizes student data using Excel; sets individual goals.</li>
-        <li>Communicates professionally in meetings with internal and external
+        <li>Managed reports displaying sales metrics, churn rate, and revenue forecasting for use in investor calls & improved upon existing dashboards to              increase functionality and usability for management.</li>
+        <li>Built a robust pipeline and facilitated fulfillment of sales quotas, personally initiating $200K+ in revenue.</li>
+        <li>Communicated with internal stakeholders at all levels as part of a fully-remote organization and reported directly to the Chief Operating Officer.</li>
+        <li>Utilized tools including ZoomInfo, LinkedIn Sales Navigator, and organic Google web queries to source prospects.</li>
+        <li>Completed market research projects and communicated data to internal stakeholders, including a special project reporting to the CEO. 
+        <li>Maintained documentation using real-time information from HubSpot.</li>
+      </ul>
+        <br></br>
+    <strong>Teacher | Hampton City Schools | Aug 2021-Dec 2021</strong>
+      <ul>
+        <li>Designed and implemented instructional material to an audience with varying learning styles.</li>
+        <li>Maintained and utilized student data using Excel; sets individual goals.</li>
+        <li>Communicated professionally in meetings with internal and external
             stakeholders.</li>
-        <li>Manages effective daily operations of a learning environment.</li>
-        <li>Utilizes educational technology on a daily basis including Google suite,
+        <li>Managed effective daily operations of a learning environment.</li>
+        <li>Utilized educational technology on a daily basis including Google suite,
            Peardeck, Google Classroom, Clever, MasteryConnect, Scholastic
            Literacy, Promethean, Microsoft suite, Adobe, and Apple devices.</li>
       </ul>
@@ -65,12 +83,24 @@
         <li>Maintained visitor list and sold center memberships.</li>
       </ul>
     <h2>Education</h2>
-    <strong>Master of Science in Nutrition Sciences | Liberty University | July 2020-Current</strong>
+    <strong>Master of Arts in Executive Leadership | Liberty University | Aug 2022-Current</strong>
       <ul>
-        <li>Public Health</li>
-        <li>Biostatistics</li>
-        <li>Communicable Disease</li>
-        <li>Clinical Nutrition</li>
+        <li>Leading Change
+        <li>Financial Accounting
+        <li>Strategic Management
+        <li>Organizational Behavior
+        <li>Public/Nonprofit Leadership
+        <li>HR Management
+      </ul>
+        <br></br>
+           <strong>Master of Science in Nutrition | Liberty University | July 2020-Aug 2022</strong>
+      <ul>
+       <li> Program Planning
+       <li>Public Health Administration
+       <li>Research Writing
+       <li>Biostatistics 
+       <li>Biochemistry
+       <li>Epidemiology
       </ul>
         <br></br>
     <strong>Graduate Coursework - Public & Nonprofit Leadership | Marshall University | May 2020-July 2020</strong>
@@ -93,18 +123,11 @@
         <li>Consumer Analytics</li>
         <li>Urban Development</li>
       </ul>
-    <h2>Skills</h2>
+    <h2>Certifications</h2>
     <ul>
-        <li>Written and oral communication</li>
-        <li>Self-motivated</li>
-        <li>Problem-solving</li>
-        <li>Familiar with basic HTML</li>
-        <li>Customer service</li>
-        <li>Multitasking</li>
-        <li>Technologically fluent</li>
-        <li>Leadership & Teamwork</li>
-        <li>Emotional intelligence</li>
-        <li>Creative and flexible</li>
+        <li>Hubspot Sales Enablement</li>
+        <li>Hubspot Reporting</li>
+        <li>Google Data Analytics (In Progress)</li>
       </ul>
   </body>
  </html>
